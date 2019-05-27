@@ -1,0 +1,23 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.0 x64 6.0.1.6053 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl xray
+Ka 0 0 0.12549
+Kd 0.407843 0.603922 0.658824
+Ks 1 1 1
+illum 2
+Ns 55.7152
+d 0.7
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
